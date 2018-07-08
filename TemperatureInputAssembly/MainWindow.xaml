@@ -1,0 +1,63 @@
+﻿<Window x:Class="TemperatureInput.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemperatureInputAssembly"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        Title="MainWindow" Height="290" Width="400" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="Window_Loaded" ResizeMode="NoResize" Icon="Resources/weather-logo.jpg">
+    <Window.Resources>
+        <Style x:Key="MenuColorChange" TargetType="Grid">
+            <Setter Property="Background" Value="#fafafa" />
+            <Setter Property="Cursor" Value="Arrow" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Background" Value="#FF2196F3" />
+                    <Setter Property="Cursor" Value="Hand" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <DockPanel Panel.ZIndex="1" Height="35" VerticalAlignment="Top" Background="#fafafa" MouseLeftButtonDown="DockPanel_MouseLeftButtonDown" >
+            <Grid Style="{StaticResource MenuColorChange}" Width="35" DockPanel.Dock="Right" MouseLeftButtonDown="CloseBtn_MouseLeftButtonDown">
+                <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="Close" Height="26" Width="26"  />
+            </Grid>
+            <Grid Style="{StaticResource MenuColorChange}" Width="35" DockPanel.Dock="Right" MouseLeftButtonDown="TrayBtn_MouseLeftButtonDown">
+                <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="WindowMinimize" Height="26" Width="26"  />
+            </Grid>
+            <Image x:Name="Logo" DockPanel.Dock="Left" Source="pack://application:,,,/TemperatureInput;component/Resources/weather-logo.jpg"  Width="100" Margin="5,4,4,5"  HorizontalAlignment="Left"/>
+        </DockPanel>
+        
+        <materialDesign:Card Padding="32" Margin="5,23,5,5">
+            <StackPanel>
+                <Label Margin="8,0,0,0" HorizontalAlignment="Center" FontWeight="Black" FontSize="20">Set day and temperature</Label>
+                <Grid Margin="0,15,0,0">
+                    
+                        <StackPanel Width="120" HorizontalAlignment="Left">
+                            <Label HorizontalAlignment="Center">Temperature</Label>
+                            <TextBox Name="temperatureValue" HorizontalAlignment="Center" Width="85">123</TextBox>
+                        </StackPanel>
+                    
+                        <StackPanel Width="150" HorizontalAlignment="Right">
+                            <Label HorizontalAlignment="Center">Day for this temperature</Label>
+                        <DatePicker ToolTip="You can enter existing date for edit existing record" Name="DateValue" SelectedDate="7/8/2018" HorizontalAlignment="Center" Width="135"></DatePicker>
+                        </StackPanel>
+                                    
+                </Grid>
+                <Button Width="300" Name="AddRecord" Margin="7,35,0,0" Click="AddRecord_Click">Add data to graph</Button>
+            </StackPanel>
+        </materialDesign:Card>
+    </Grid>
+</Window>

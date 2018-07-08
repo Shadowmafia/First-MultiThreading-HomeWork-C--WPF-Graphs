@@ -1,0 +1,51 @@
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CopyComplete
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe.config
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.lref
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.g.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.Properties.Resources.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csprojAssemblyReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe.config
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.pdb
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csprojAssemblyReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.lref
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.g.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.Properties.Resources.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.GenerateResource.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CoreCompileInputs.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CopyComplete
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe.config
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\TemperatureInput.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csprojAssemblyReference.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput_MarkupCompile.lref
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\App.baml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.g.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.Properties.Resources.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.csproj.CopyComplete
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\TemperatureInputAssembly\obj\Debug\TemperatureInput.pdb

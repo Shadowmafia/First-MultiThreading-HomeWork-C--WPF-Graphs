@@ -1,0 +1,110 @@
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe.config
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.lref
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.g.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.Properties.Resources.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CopyComplete
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.pdb
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe.config
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.pdb
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignColors.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csprojAssemblyReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.lref
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.g.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.Properties.Resources.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.GenerateResource.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CopyComplete
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe.config
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MultithreadingHomeWork.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork_MarkupCompile.lref
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.g.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.Properties.Resources.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csproj.CopyComplete
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\MultithreadingHomeWork.csprojAssemblyReference.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\obj\Debug\App.baml

@@ -1,0 +1,51 @@
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\outputDiagram.exe.config
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\outputDiagram.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\outputDiagram.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram_MarkupCompile.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram_MarkupCompile.lref
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram.g.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram.exe
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram.pdb
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\outputDiagram.Properties.Resources.resources
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CopyComplete
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.baml
+C:\Users\Shadowmafia\source\repos\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csprojAssemblyReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.exe.config
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.pdb
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csprojAssemblyReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.g.cs
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram_MarkupCompile.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram_MarkupCompile.lref
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.baml
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.g.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.Properties.Resources.resources
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.GenerateResource.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CopyComplete
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.exe.config
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\MultithreadingHomeWork\bin\Debug\OutputDiagram.pdb
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csprojAssemblyReference.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.g.cs
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram_MarkupCompile.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram_MarkupCompile.lref
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\App.baml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\MainWindow.baml
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.g.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.Properties.Resources.resources
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.GenerateResource.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.csproj.CopyComplete
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.exe
+C:\Users\Shadowmafia\AppData\Roaming\Skype\My Skype Received Files\MultithreadingHomeWork(1)\MultithreadingHomeWork\outputDiagramAssembly\obj\Debug\OutputDiagram.pdb

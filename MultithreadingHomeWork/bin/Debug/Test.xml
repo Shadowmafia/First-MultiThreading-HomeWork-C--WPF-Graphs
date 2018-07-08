@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfDateTimePoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTimePoint>
+    <DateTime>2018-07-11T00:00:00</DateTime>
+    <Value>22</Value>
+  </DateTimePoint>
+  <DateTimePoint>
+    <DateTime>2018-07-02T00:00:00</DateTime>
+    <Value>-50</Value>
+  </DateTimePoint>
+  <DateTimePoint>
+    <DateTime>2018-06-04T00:00:00</DateTime>
+    <Value>5</Value>
+  </DateTimePoint>
+  <DateTimePoint>
+    <DateTime>2018-07-08T00:00:00</DateTime>
+    <Value>-20</Value>
+  </DateTimePoint>
+</ArrayOfDateTimePoint>
